@@ -16,10 +16,28 @@
             "orientation": 0,
             "renderMode": 0
         }, {
+            "$type": "TapShape.GameConfig, TapShape",
+            "StartButton": {
+                "SceneGuid": "75b58a185d7b4b02bff4dc0b1b54a070"
+            },
+            "ShapeScene": {
+                "SceneGuid": "8e90fd311c134fff8610c24f151d81da"
+            },
+            "Opening": true,
+            "num": 6
+        }, {
             "$type": "Unity.Tiny.Scenes.Scenes, Unity.Tiny.Scenes",
             "Elements": [{
                 "SceneReference": {
                     "SceneGuid": "b614d8d947e64264829e131559c45107"
+                }
+            }, {
+                "SceneReference": {
+                    "SceneGuid": "75b58a185d7b4b02bff4dc0b1b54a070"
+                }
+            }, {
+                "SceneReference": {
+                    "SceneGuid": "8e90fd311c134fff8610c24f151d81da"
                 }
             }]
         }, {
@@ -28,6 +46,25 @@
                 "SceneReference": {
                     "SceneGuid": "b614d8d947e64264829e131559c45107"
                 }
+            }]
+        }, {
+            "$type": "Unity.Authoring.Core.ComponentOrder, Unity.Authoring.Core",
+            "Elements": [{
+                "StableTypeHash": 7960064150805274675
+            }, {
+                "StableTypeHash": 12662904853204722592
+            }, {
+                "StableTypeHash": 9934237349586794947
+            }, {
+                "StableTypeHash": 1646804898107705822
+            }, {
+                "StableTypeHash": 4097997852639884284
+            }, {
+                "StableTypeHash": 7901291183623368171
+            }, {
+                "StableTypeHash": 12868552232662715323
+            }, {
+                "StableTypeHash": 17300731168040847056
             }]
         }, {
             "$type": "Unity.Authoring.Core.ConfigurationTag, Unity.Authoring.Core"

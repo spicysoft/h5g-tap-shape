@@ -38,9 +38,9 @@
         "Unity.Tiny.Video",
         "Unity.Tiny.VideoHTML",
         "Unity.Tiny.VideoNative",
-        "Unity.Tiny.Watchers"
+        "Unity.Tiny.Watchers",
+        "Unity.Authoring.Core"
     ],
-    "optionalUnityReferences": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
