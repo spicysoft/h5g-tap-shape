@@ -23,8 +23,20 @@
             "ShapeScene": {
                 "SceneGuid": "8e90fd311c134fff8610c24f151d81da"
             },
+            "ShapeScene1": {
+                "SceneGuid": "236863b8119240a789c018fa381f07b7"
+            },
+            "ShapeScene2": {
+                "SceneGuid": "e39861c180284aa1b2fcd7b2125df0e3"
+            },
+            "ShapeScene3": {
+                "SceneGuid": "4957f7f153a54d1da4a7de5b1be4f501"
+            },
+            "ShapeScene4": {
+                "SceneGuid": "1967cfd958484ed3bb82e2aae7477824"
+            },
             "Opening": true,
-            "num": 6
+            "num": 10
         }, {
             "$type": "Unity.Tiny.Scenes.Scenes, Unity.Tiny.Scenes",
             "Elements": [{
@@ -38,6 +50,22 @@
             }, {
                 "SceneReference": {
                     "SceneGuid": "8e90fd311c134fff8610c24f151d81da"
+                }
+            }, {
+                "SceneReference": {
+                    "SceneGuid": "236863b8119240a789c018fa381f07b7"
+                }
+            }, {
+                "SceneReference": {
+                    "SceneGuid": "e39861c180284aa1b2fcd7b2125df0e3"
+                }
+            }, {
+                "SceneReference": {
+                    "SceneGuid": "4957f7f153a54d1da4a7de5b1be4f501"
+                }
+            }, {
+                "SceneReference": {
+                    "SceneGuid": "1967cfd958484ed3bb82e2aae7477824"
                 }
             }]
         }, {
@@ -65,6 +93,10 @@
                 "StableTypeHash": 12868552232662715323
             }, {
                 "StableTypeHash": 17300731168040847056
+            }, {
+                "StableTypeHash": 9222250223480554898
+            }, {
+                "StableTypeHash": 14608609609952823948
             }]
         }, {
             "$type": "Unity.Authoring.Core.ConfigurationTag, Unity.Authoring.Core"

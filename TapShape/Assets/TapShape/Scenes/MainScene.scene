@@ -93,7 +93,7 @@
             "b": 9427431307642220363
         }, {
             "$type": "Unity.Tiny.Core2D.Camera2D, Unity.Tiny.Core2D",
-            "halfVerticalSize": 1024,
+            "halfVerticalSize": 10,
             "rect": {
                 "width": 1,
                 "height": 1
