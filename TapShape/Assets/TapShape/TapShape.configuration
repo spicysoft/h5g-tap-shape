@@ -35,6 +35,21 @@
             "ShapeScene4": {
                 "SceneGuid": "1967cfd958484ed3bb82e2aae7477824"
             },
+            "QuestionShape": {
+                "SceneGuid": "e3d5761a5739417fbadd368e8d5f706b"
+            },
+            "QuestionShape1": {
+                "SceneGuid": "c71595af27b246cea694f5d1f0af2569"
+            },
+            "QuestionShape2": {
+                "SceneGuid": "f23fa6e904fd41948aba3ea5b07ad0bd"
+            },
+            "QuestionShape3": {
+                "SceneGuid": "c0b2ecb18f5c4878939b0b9fea4ee570"
+            },
+            "QuestionShape4": {
+                "SceneGuid": "d72c3a8d4c6d4acc92dd78d602b42c1d"
+            },
             "Opening": true,
             "num": 10
         }, {
@@ -66,6 +81,26 @@
             }, {
                 "SceneReference": {
                     "SceneGuid": "1967cfd958484ed3bb82e2aae7477824"
+                }
+            }, {
+                "SceneReference": {
+                    "SceneGuid": "e3d5761a5739417fbadd368e8d5f706b"
+                }
+            }, {
+                "SceneReference": {
+                    "SceneGuid": "c71595af27b246cea694f5d1f0af2569"
+                }
+            }, {
+                "SceneReference": {
+                    "SceneGuid": "f23fa6e904fd41948aba3ea5b07ad0bd"
+                }
+            }, {
+                "SceneReference": {
+                    "SceneGuid": "c0b2ecb18f5c4878939b0b9fea4ee570"
+                }
+            }, {
+                "SceneReference": {
+                    "SceneGuid": "d72c3a8d4c6d4acc92dd78d602b42c1d"
                 }
             }]
         }, {
@@ -101,6 +136,18 @@
                 "StableTypeHash": 3617301612437142770
             }, {
                 "StableTypeHash": 10128988297485253105
+            }, {
+                "StableTypeHash": 8936005306230430695
+            }, {
+                "StableTypeHash": 3167654049445039134
+            }, {
+                "StableTypeHash": 396388331184553600
+            }, {
+                "StableTypeHash": 1859417918187808579
+            }, {
+                "StableTypeHash": 17409701301431293301
+            }, {
+                "StableTypeHash": 15844655789904312520
             }]
         }, {
             "$type": "Unity.Authoring.Core.ConfigurationTag, Unity.Authoring.Core"

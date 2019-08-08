@@ -78,6 +78,8 @@
                 "StableTypeHash": 15545940773359725627
             }, {
                 "StableTypeHash": 9145399413885530644
+            }, {
+                "StableTypeHash": 18172136592453553204
             }]
         }, {
             "$type": "TapShape.ShapeManager, TapShape"
