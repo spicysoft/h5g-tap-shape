@@ -50,7 +50,11 @@
             "QuestionShape4": {
                 "SceneGuid": "d72c3a8d4c6d4acc92dd78d602b42c1d"
             },
+            "ShapeManagerScene": {
+                "SceneGuid": "10a6af1c30ba4b26b0fced6b3f7f3f05"
+            },
             "Opening": true,
+            "ShapeManager": true,
             "num": 10
         }, {
             "$type": "Unity.Tiny.Scenes.Scenes, Unity.Tiny.Scenes",
@@ -102,6 +106,10 @@
                 "SceneReference": {
                     "SceneGuid": "d72c3a8d4c6d4acc92dd78d602b42c1d"
                 }
+            }, {
+                "SceneReference": {
+                    "SceneGuid": "10a6af1c30ba4b26b0fced6b3f7f3f05"
+                }
             }]
         }, {
             "$type": "Unity.Tiny.Scenes.StartupScenes, Unity.Tiny.Scenes",
@@ -148,6 +156,16 @@
                 "StableTypeHash": 17409701301431293301
             }, {
                 "StableTypeHash": 15844655789904312520
+            }, {
+                "StableTypeHash": 14670956232677250622
+            }, {
+                "StableTypeHash": 6962396953655825749
+            }, {
+                "StableTypeHash": 4072553807877145201
+            }, {
+                "StableTypeHash": 10947764739422802882
+            }, {
+                "StableTypeHash": 334299830549103755
             }]
         }, {
             "$type": "Unity.Authoring.Core.ConfigurationTag, Unity.Authoring.Core"
