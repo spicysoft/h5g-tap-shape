@@ -10,8 +10,8 @@
             "camera": "df240bd61ef747b382d4f6d35c692f4b",
             "uiScaleMode": 1,
             "referenceResolution": {
-                "x": 1280,
-                "y": 720
+                "x": 1024,
+                "y": 1024
             },
             "matchWidthOrHeight": 1
         }, {
@@ -115,7 +115,7 @@
                 "b": 1,
                 "a": 1
             },
-            "size": 32
+            "size": 40
         }, {
             "$type": "Unity.Authoring.Core.SiblingIndex, Unity.Authoring.Core"
         }, {
@@ -129,11 +129,11 @@
                 "y": 1
             },
             "sizeDelta": {
-                "x": 100,
-                "y": 100
+                "x": 1,
+                "y": 1
             },
             "anchoredPosition": {
-                "y": -50
+                "y": -100
             },
             "pivot": {
                 "x": 0.5,
@@ -159,7 +159,8 @@
                 "z": 1
             }
         }, {
-            "$type": "Unity.Tiny.Core2D.LayerSorting, Unity.Tiny.Core2D"
+            "$type": "Unity.Tiny.Core2D.LayerSorting, Unity.Tiny.Core2D",
+            "order": 2
         }, {
             "$type": "Unity.Tiny.Text.TextString, Unity.Tiny.Text",
             "Elements": [{
