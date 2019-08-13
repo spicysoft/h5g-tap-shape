@@ -58,7 +58,8 @@
             },
             "Opening": true,
             "ShapeManager": true,
-            "num": 10
+            "num": 10,
+            "time": 5
         }, {
             "$type": "Unity.Tiny.Scenes.Scenes, Unity.Tiny.Scenes",
             "Elements": [{
@@ -185,6 +186,8 @@
                 "StableTypeHash": 2030676503687019599
             }, {
                 "StableTypeHash": 6281722277338564372
+            }, {
+                "StableTypeHash": 16552776977756075872
             }]
         }, {
             "$type": "Unity.Authoring.Core.ConfigurationTag, Unity.Authoring.Core"
