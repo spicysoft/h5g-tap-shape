@@ -23,18 +23,6 @@
             "ShapeScene": {
                 "SceneGuid": "8e90fd311c134fff8610c24f151d81da"
             },
-            "ShapeScene1": {
-                "SceneGuid": "236863b8119240a789c018fa381f07b7"
-            },
-            "ShapeScene2": {
-                "SceneGuid": "e39861c180284aa1b2fcd7b2125df0e3"
-            },
-            "ShapeScene3": {
-                "SceneGuid": "4957f7f153a54d1da4a7de5b1be4f501"
-            },
-            "ShapeScene4": {
-                "SceneGuid": "1967cfd958484ed3bb82e2aae7477824"
-            },
             "QuestionShape": {
                 "SceneGuid": "e3d5761a5739417fbadd368e8d5f706b"
             },
@@ -73,22 +61,6 @@
             }, {
                 "SceneReference": {
                     "SceneGuid": "8e90fd311c134fff8610c24f151d81da"
-                }
-            }, {
-                "SceneReference": {
-                    "SceneGuid": "236863b8119240a789c018fa381f07b7"
-                }
-            }, {
-                "SceneReference": {
-                    "SceneGuid": "e39861c180284aa1b2fcd7b2125df0e3"
-                }
-            }, {
-                "SceneReference": {
-                    "SceneGuid": "4957f7f153a54d1da4a7de5b1be4f501"
-                }
-            }, {
-                "SceneReference": {
-                    "SceneGuid": "1967cfd958484ed3bb82e2aae7477824"
                 }
             }, {
                 "SceneReference": {
@@ -188,6 +160,8 @@
                 "StableTypeHash": 6281722277338564372
             }, {
                 "StableTypeHash": 16552776977756075872
+            }, {
+                "StableTypeHash": 7242487719070672704
             }]
         }, {
             "$type": "Unity.Authoring.Core.ConfigurationTag, Unity.Authoring.Core"

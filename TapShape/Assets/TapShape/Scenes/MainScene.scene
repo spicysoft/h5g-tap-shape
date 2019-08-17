@@ -103,10 +103,6 @@
                 "c": "0"
             }, {
                 "c": "0"
-            }, {
-                "c": "0"
-            }, {
-                "c": "0"
             }]
         }, {
             "$type": "Unity.Tiny.Core.EntityName, Unity.Tiny.Core",
@@ -159,7 +155,11 @@
                 "StableTypeHash": 1511947279668656474
             }, {
                 "StableTypeHash": 17649336122499667438
+            }, {
+                "StableTypeHash": 1451838044410667397
             }]
+        }, {
+            "$type": "BestScoreTag, TapShape"
         }]
     }, {
         "Components": [{
