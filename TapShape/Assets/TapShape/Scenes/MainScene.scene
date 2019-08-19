@@ -22,9 +22,6 @@
         }, {
             "$type": "Unity.Tiny.Text.Text2DStyle, Unity.Tiny.Text",
             "color": {
-                "r": 1,
-                "g": 1,
-                "b": 1,
                 "a": 1
             },
             "size": 32
@@ -266,9 +263,6 @@
         }, {
             "$type": "Unity.Tiny.Text.Text2DStyle, Unity.Tiny.Text",
             "color": {
-                "r": 1,
-                "g": 1,
-                "b": 1,
                 "a": 1
             },
             "size": 32
@@ -523,9 +517,9 @@
                 "height": 1
             },
             "backgroundColor": {
-                "r": 0.4339623,
-                "g": 0.361987,
-                "b": 0.3295657,
+                "r": 0.6018156,
+                "g": 0.761647,
+                "b": 0.7924528,
                 "a": 1
             },
             "clearFlags": 1,
